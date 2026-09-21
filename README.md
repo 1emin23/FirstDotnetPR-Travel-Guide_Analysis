@@ -4,6 +4,9 @@ Bu depo, benim geliştirdiğim **ilk .NET Windows Forms** uygulamasıdır. Proje
 
 Veritabanı operasyonları ve mimari tasarım aşamasında **Entity Framework - DB First (Önce Veritabanı)** yaklaşımı tercih edilmiştir. Proje geliştirilirken özellikle LINQ sorguları ile veritabanından veri okuma, filtreleme ve istatistiksel verileri (en yüksek fiyat, ortalama kapasite vb.) formatlayarak arayüze yansıtma konularında ciddi bir temel atılmıştır.
 
+<img width="898" height="537" alt="image" src="https://github.com/user-attachments/assets/0dbae45d-c1d9-4cb8-b166-6f801811d925" />
+
+
 ## 🛠️ Kullanılan Teknolojiler
 
 Her ne kadar repoda kocaman bir C# ibaresi yer alsa da perde arkasında kullanılan yapılar şunlardır: 
