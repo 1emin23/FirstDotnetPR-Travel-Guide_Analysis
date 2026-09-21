@@ -29,6 +29,11 @@ Projeyi kendi ortamınızda incelemek ve test etmek isterseniz aşağıdaki adı
    
    ```
 
+   benden örnek vermek gerekirse: 
+   ```
+   https://github.com/1emin23/FirstDotnetPR-Travel-Guide_Analysis.git   
+   ```
+
 2. **Visual Studio ile Açın:**
    Klonladığınız klasördeki `.sln` (Solution) dosyasına çift tıklayarak projeyi Visual Studio'da açın.
 
